@@ -1,8 +1,5 @@
 # jQuery- v1.10.2 源码解读
 
-`jQuery` 源码中，中文注释是我的解读 ，才疏学浅，若有不正之处，万望告知。
-
-[详细全文中文注释请戳这里（未完待续）](https://github.com/chokcoco/jQuery-/blob/master/jquery-1.10.2__read.js)
 
 
 部分参考资料，收集如下
@@ -57,12 +54,4 @@
 [javascript事件机制底层实现原理](http://www.cnblogs.com/yexiaochai/p/3477715.html)
 
 ## jQuery 整体架构图
-![jQuery整体架构脑图，jQuery整体架构](https://raw.githubusercontent.com/chokcoco/jQuery-/master/mindMap/jQuery%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84.png)
-
-## 个人博客相关文章
-[【深入浅出jQuery】源码浅析--整体架构](http://www.cnblogs.com/coco1s/p/5261646.html)
-
-[【深入浅出jQuery】源码浅析2--奇技淫巧](http://www.cnblogs.com/coco1s/p/5303041.html)
-
-## License
-MIT
+![jQuery整体架构脑图，jQuery整体架构](https://raw.githubusercontent.com/cuiwuzhi/jQuery-/master/mindMap/jQuery%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84.png)
