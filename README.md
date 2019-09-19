@@ -54,4 +54,4 @@
 [javascript事件机制底层实现原理](http://www.cnblogs.com/yexiaochai/p/3477715.html)
 
 ## jQuery 整体架构图
-![jQuery整体架构脑图，jQuery整体架构](https://raw.githubusercontent.com/cuiwuzhi/jQuery-/master/mindMap/jQuery%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84.png)
+![jQuery整体架构脑图，jQuery整体架构](https://raw.githubusercontent.com/chokcoco/jQuery-/master/mindMap/jQuery%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84.png)
